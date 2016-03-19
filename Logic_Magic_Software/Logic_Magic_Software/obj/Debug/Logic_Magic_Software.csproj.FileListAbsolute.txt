@@ -1,0 +1,11 @@
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\bin\Debug\Logic_Magic_Software.exe.config
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\bin\Debug\Logic_Magic_Software.exe
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\bin\Debug\Logic_Magic_Software.pdb
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\obj\Debug\Logic_Magic_Software.csprojResolveAssemblyReference.cache
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\obj\Debug\Logic_Magic_Software.InicioForm.resources
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\obj\Debug\Logic_Magic_Software.Properties.Resources.resources
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\obj\Debug\Logic_Magic_Software.csproj.GenerateResource.Cache
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\obj\Debug\Logic_Magic_Software.exe
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\obj\Debug\Logic_Magic_Software.pdb
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\obj\Debug\Logic_Magic_Software.MenuPrincipal.resources
+G:\Usuarios\Oscar\Documentos\Visual Studio 2015\Projects\Logic_Magic_Software\Logic_Magic_Software\obj\Debug\Logic_Magic_Software.AyudaForm.resources
